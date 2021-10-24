@@ -1,1 +1,1 @@
-return state;
+...state,
